@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ashok",
+      "email": "ash@april.biz",
+      "address": {
+        "line1": "Reddin street",
+        "line2": "Kodambakkam"
+      },
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zipcode": "600091",
+      "linkedIn": "linkedin.com/ashok",
+      "gender": "Male"
+    },
+    {
+      "id": "2",
+      "name": "Jessie",
+      "email": "jess@melissa.tv",
+      "address": {
+        "line1": "Vaigai Street",
+        "line2": "Velachery"
+      },
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zipcode": "600031",
+      "linkedIn": "linkedin.com/jess",
+      "gender": "Female"
+    },
+    {
+      "id": "3",
+      "name": "Sam",
+      "email": "sam@melissa.tv",
+      "address": {
+        "line1": "Penny Street",
+        "line2": "Guindy"
+      },
+      "city": "Coimbatore",
+      "state": "TamilNadu",
+      "zipcode": "600031",
+      "linkedIn": "linkedin.com/jess",
+      "gender": "Male"
+    }
+  ]
+}
